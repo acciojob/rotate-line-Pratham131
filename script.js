@@ -3,7 +3,7 @@ const lineElement = document.getElementById('line');
 
 function rotateLine() {
     let rotation = 0;
-    const rotationInterval = 5; // Adjust the rotation speed here (smaller value for faster rotation)
+    const rotationInterval = 5; 
     
     function animateRotation() {
         rotation += rotationInterval;
