@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 #line{
-			transform-origin: 50% 50%;
+			transform-origin: left center;
 			position: absolute;
 			height: 2px;
 /* 			color: black; */
