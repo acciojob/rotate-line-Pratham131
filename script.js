@@ -14,5 +14,4 @@ function rotateLine() {
     animateRotation();
 }
 
-
-rotateLine();
+window.onload = rotateLine();
