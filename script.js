@@ -14,4 +14,5 @@ function rotateLine() {
     animateRotation();
 }
 
+
 rotateLine();
