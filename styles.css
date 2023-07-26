@@ -1,9 +1,10 @@
 /*  your css code here. If applicable */
 #line{
 			transform-origin: left center;
-			position: absolute;
+/* 			position: absolute; */
+	margin:200px;
 			height: 2px;
-/* 			color: black; */
+			color: black;
 			width: 200px;
-			background-color: white;
+			background-color: black;
 }
